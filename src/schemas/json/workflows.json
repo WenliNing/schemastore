@@ -636,6 +636,7 @@
       "properties": {
         "main": {
           "type": "object",
+          "required": ["steps"],
           "additionalProperties": false,
           "properties": {
             "params": {
